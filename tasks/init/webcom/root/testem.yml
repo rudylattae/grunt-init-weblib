@@ -1,0 +1,9 @@
+src_files:
+- src/**/*.js
+- spec/**/*.js
+
+serve_files:
+- dist/latest/**/*.js
+- spec/**/*.js
+
+before_tests: grunt

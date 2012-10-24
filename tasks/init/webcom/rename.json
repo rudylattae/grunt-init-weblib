@@ -1,0 +1,6 @@
+{
+  ".npmignore": false,
+  ".DS_Store": false,
+  "src/hello.js": "src/{%= name %}.js",
+  "spec/helloSpec.js": "spec/{%= name %}Spec.js"
+}
