@@ -1,8 +1,8 @@
 {
-  "name": "webcom",
-  "description": "Grunt init generator for web components",
-  "version": "0.0.0",
-  "homepage": "https://github.com/rudylattae/grunt-init-webcomponent",
+  "name": "weblib",
+  "description": "Grunt init generator for your next web library",
+  "version": "0.1.0",
+  "homepage": "https://github.com/rudylattae/grunt-init-weblib",
   "author": {
     "name": "Rudy Lattae",
     "email": "rudylattae@gmail.com",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rudylattae/grunt-init-webcomponent.git"
+    "url": "https://github.com/rudylattae/grunt-init-weblib.git"
   },
   "bugs": {
-    "url": "https://github.com/rudylattae/grunt-init-webcomponent/issues"
+    "url": "https://github.com/rudylattae/grunt-init-weblib/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/rudylattae/grunt-init-webcomponent/blob/master/LICENSE-MIT"
+      "url": "https://github.com/rudylattae/grunt-init-weblib/blob/master/LICENSE-MIT"
     }
   ],
   "main": "grunt.js",

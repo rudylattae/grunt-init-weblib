@@ -3,7 +3,7 @@ var grunt = require("grunt");
 
 // Preload all custom tasks.
 grunt.npmTasks([
-  "webcom"
+  "weblib"
 ]);
 
 // Otherwise, invoke the CLI.
