@@ -1,38 +1,37 @@
-Grunt init generator for web components.
+# Grunt initilaizer for Web Library projects
 
-Boilerplate to generate grunt init plugins that will generate grunt projects.
+    TODO
 
-This work is based in [Backbone Boilerplate framework tool](https://github.com/backbone-boilerplate/grunt-bbb) from [Tim Branyen](https://github.com/tbranyen)
 
-## Getting Started ##
+## Getting Started
 
-#### Install this [Grunt](https://github.com/cowboy/grunt) plugin with: ####
+**Install this [Grunt](https://github.com/cowboy/grunt) plugin with:**
 ``` bash
-$ npm install -g webcom
+$ npm install -g weblib
 ```
 
-#### Create a new grunt init template ####
+**Create and jump into the dir for your new project**
 ``` bash
-$ webcom init
+$ mkdir webAwesome
+$ cd webAwesome
+```
+
+**Kickstart your new project, create the skeleton and dir layout**
+``` bash
+$ weblib init
 ```
 Answer some questions
 
-#### Add some file in ####
-``` bash
-$ /tasks/init/webcom/root
-```
+**You should end up with a directory layout like:**
 
-#### To run in development environment ####
-``` bash
-$ npm link
-```
-
-``` bash
-$ webcom init
-```
+    dist/
+    eg/
+    lib/
+    spec/
+    src/
 
 
-## Release History ##
+## Release History
 
 2012/09/09 - v0.1.0 - Preview release
 
